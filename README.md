@@ -16,4 +16,4 @@ $15,000
 1 week 
 
 # Purpose of the Trip
-Experience the great city of Orlando. We will be visiting Universal Studios and other great attractions in Orlando.
+The purpose of this trip is to experience the great city of Orlando. We will be visiting Universal Studios and other great attractions in Orlando.
