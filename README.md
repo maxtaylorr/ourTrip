@@ -1,7 +1,7 @@
-# ourTrip
+# Our Trip
 A plan for our trip to Orlando, Florida.
 
-# Participants
+# Participants/Team Members
 * Kolbe Weathington
 * Sam Burnett
 * Max Taylor
