@@ -1,2 +1,7 @@
 # ourTrip
-A plan for the trip my friends and I are going on
+A plan for our trip to Orlando, Florida.
+
+# Participants
+*Kolbe Weathington
+*Sam Burnett
+*Max Taylor
