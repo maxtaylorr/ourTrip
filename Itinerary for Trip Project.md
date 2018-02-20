@@ -77,24 +77,27 @@
 
 | Time | Activity | Cost |
 |------|----------|------|
-|7 A.M.|          |      |
-|8 A.M.|          |      |
-|9 A.M.|          |      |
-|10 A.M.|          |      |
-|11 A.M.|          |      |
-|12 P.M.|          |      |
-|1 P.M.|          |      |
-|2 P.M.|          |      |
-|3 P.M.|          |      |
-|4 P.M.|          |      |
-|5 P.M.|          |      |
-|6 P.M.|          |      |
-|7 P.M.|          |      |
-|8 P.M.|          |      |
-|9 P.M.|          |      |
-|10 P.M.|          |      |
-|11 P.M.|          |$      |
-|Total Cost|$       |
+|7 A.M.| Wake up |      |
+|8 A.M.| Breakfast at Keke's Breakfast Cafe |$35|
+|9 A.M.| Hangout by the poolside and swim |      |
+|10 A.M.| Hangout by the poolside and swim |      |
+|11 A.M.| Hangout by the poolside and swim |      |
+|12 P.M.| Lunch by the pool | $40 |
+|1 P.M.| Take nap at hotel |      |
+|2 P.M.| Take nap at hotel |      |
+|3 P.M.| Take nap at hotel |      |
+|4 P.M.| Uber to Kres Chophouse | $20 |
+|5 P.M.| Fine dine at Kres Chophouse | $2,000 |
+|6 P.M.| Fine dine at Kres Chophouse | ----- |
+|7 P.M.| Fine dine at Kres Chophouse | ----- |
+|8 P.M.| Uber to Tampa Casino | $110 |
+|9 P.M.| Gamble | $3,000 ($1,000 each) |
+|10 P.M.| Gamble | |
+|11 P.M.| Gamble |      |
+|12 A.M.| Gamble | |
+|1 A.M.| Uber back to hotel | $110 |
+|2 A.M.| Bedtime | |
+|Total Cost| $5,315 |
 
 
 # **Day 5 Itinerary**
