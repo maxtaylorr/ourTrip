@@ -184,16 +184,5 @@
 |10 A.M.| Flying from Miami to St. Louis|      |
 |11 A.M.| Flying from Miami to St. Louis|      |
 |12 P.M.| Drive back to Columbia|$30|
-|1 P.M.|          |      |
-|2 P.M.|          |      |
-|3 P.M.|          |      |
-|4 P.M.|          |      |
-|5 P.M.|          |      |
-|6 P.M.|          |      |
-|7 P.M.|          |      |
-|8 P.M.|          |      |
-|9 P.M.|          |      |
-|10 P.M.|          |      |
-|11 P.M.|          |      |
 |Total Cost|$930       |
 
