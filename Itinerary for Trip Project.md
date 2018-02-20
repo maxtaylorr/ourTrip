@@ -86,15 +86,18 @@
 |1 P.M.|          |      |
 |2 P.M.|          |      |
 |3 P.M.|          |      |
-|4 P.M.|          |      |
-|5 P.M.|          |      |
-|6 P.M.|          |      |
-|7 P.M.|          |      |
-|8 P.M.|          |      |
-|9 P.M.|          |      |
-|10 P.M.|          |      |
-|11 P.M.|          |$      |
-|Total Cost|$       |
+|4 P.M.| Uber to Kres Chophouse | $20 |
+|5 P.M.| Fine dine at Kres Chophouse | $2,000 |
+|6 P.M.| Fine dine at Kres Chophouse | ----- |
+|7 P.M.| Fine dine at Kres Chophouse | ----- |
+|8 P.M.| Uber to Tampa Casino | $110 |
+|9 P.M.| Gamble | $3,000 ($1,000 each) |
+|10 P.M.| Gamble | |
+|11 P.M.| Gamble |      |
+|12 A.M.| Gamble | |
+|1 A.M.| Uber back to hotel | $110 |
+|2 A.M.| Betime | |
+|Total Cost| $5,240 |
 
 
 # **Day 5 Itinerary**
