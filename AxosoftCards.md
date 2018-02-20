@@ -1,1 +1,0 @@
-![axosoft cards](https://cdn.discordapp.com/attachments/410552369449795585/415374417070129152/axosoft.PNG)
