@@ -177,12 +177,13 @@
 
 | Time | Activity | Cost |
 |------|----------|------|
-|7 A.M.|          |      |
-|8 A.M.|          |      |
-|9 A.M.|          |      |
-|10 A.M.|          |      |
-|11 A.M.|          |      |
-|12 P.M.|          |      |
+|6 A.M.| Flying from Orlando to Miami | $900 |
+|7 A.M.| Flying from Miami to St. Louis |      |
+|8 A.M.| Flying from Miami to St. Louis |      |
+|9 A.M.| Flying from Miami to St. Louis |      |
+|10 A.M.| Flying from Miami to St. Louis|      |
+|11 A.M.| Flying from Miami to St. Louis|      |
+|12 P.M.| Drive back to Columbia|$30|
 |1 P.M.|          |      |
 |2 P.M.|          |      |
 |3 P.M.|          |      |
@@ -193,6 +194,6 @@
 |8 P.M.|          |      |
 |9 P.M.|          |      |
 |10 P.M.|          |      |
-|11 P.M.|          |$      |
-|Total Cost|$       |
+|11 P.M.|          |      |
+|Total Cost|$930       |
 
