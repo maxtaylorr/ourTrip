@@ -1,4 +1,5 @@
 # **Day 1 Itinerary**
+## Friday
 
 | Time | Activity | Cost |
 |------|----------|------|
@@ -24,6 +25,7 @@
 |Total Cost|$4,135.77|
 
 # **Day 2 Itinerary**
+## Saturday
 
 | Time | Activity | Cost |
 |------|----------|------|
@@ -47,6 +49,7 @@
 |Total Cost|$200|
 
 # **Day 3 Itinerary**
+## Sunday
 
 | Time | Activity | Cost |
 |------|----------|------|
@@ -70,6 +73,7 @@
 |Total Cost|$495 |
 
 # **Day 4 Itinerary**
+## Monday
 
 | Time | Activity | Cost |
 |------|----------|------|
@@ -91,54 +95,82 @@
 |10 P.M.|          |      |
 |11 P.M.|          |$      |
 |Total Cost|$       |
+
 
 # **Day 5 Itinerary**
+## Tuesday
 
 | Time | Activity | Cost |
 |------|----------|------|
-|7 A.M.|          |      |
-|8 A.M.|          |      |
-|9 A.M.|          |      |
-|10 A.M.|          |      |
-|11 A.M.|          |      |
-|12 P.M.|          |      |
-|1 P.M.|          |      |
-|2 P.M.|          |      |
-|3 P.M.|          |      |
-|4 P.M.|          |      |
-|5 P.M.|          |      |
-|6 P.M.|          |      |
-|7 P.M.|          |      |
-|8 P.M.|          |      |
-|9 P.M.|          |      |
-|10 P.M.|          |      |
-|11 P.M.|          |$      |
-|Total Cost|$       |
+|7 A.M.| Wake up |      |
+|8 A.M.| Pre-Game | $20 |
+|9 A.M.| Arrive at Universal Studios | $860 (3 tickets) |
+|10 A.M.| Enjoy Rides |      |
+|11 A.M.| Universal Studios |      |
+|12 P.M.| Universal Studios |      |
+|1 P.M.| Universal Studios |      |
+|2 P.M.| Lunch inside the park | $50 |
+|3 P.M.| Universal Studios |      |
+|4 P.M.| Universal Studios |      |
+|5 P.M.| Universal Studios |      |
+|6 P.M.| Universal Studios |      |
+|7 P.M.| Universal Studios |      |
+|8 P.M.| Dinner inside the park | $60 |
+|9 P.M.| Head back to hotel |      |
+|10 P.M.| Bedtime |      |
+|11 P.M.| Sleepy |      |
+|Total Cost| $990 |
 
 # **Day 6 Itinerary**
+## Wednesday
 
 | Time | Activity | Cost |
 |------|----------|------|
-|7 A.M.|          |      |
-|8 A.M.|          |      |
-|9 A.M.|          |      |
-|10 A.M.|          |      |
-|11 A.M.|          |      |
-|12 P.M.|          |      |
-|1 P.M.|          |      |
-|2 P.M.|          |      |
-|3 P.M.|          |      |
-|4 P.M.|          |      |
-|5 P.M.|          |      |
-|6 P.M.|          |      |
-|7 P.M.|          |      |
-|8 P.M.|          |      |
-|9 P.M.|          |      |
-|10 P.M.|          |      |
-|11 P.M.|          |$      |
-|Total Cost|$       |
+|7 A.M.| Wake up |      |
+|8 A.M.| Pre-Game | $20 |
+|9 A.M.| Arrive at Universal: Islands of Adventure | $860 (3 tickets) |
+|10 A.M.| Universal: Islands of Adventure|      |
+|11 A.M.| Universal: Islands of Adventure |      |
+|12 P.M.| Universal: Islands of Adventure |      |
+|1 P.M.| Universal: Islands of Adventure |      |
+|2 P.M.| Lunch in the park | $50 |
+|3 P.M.| Universal: Islands of Adventure |      |
+|4 P.M.| Universal: Islands of Adventure |      |
+|5 P.M.| Universal: Islands of Adventure |      |
+|6 P.M.| Universal: Islands of Adventure |      |
+|7 P.M.| Universal: Islands of Adventure |      |
+|8 P.M.| Dinner inside the park | $60 |
+|9 P.M.| Head back to hotel |      |
+|10 P.M.| Bedtime |      |
+|11 P.M.| Sleepy |      |
+|Total Cost| $990 |
 
 # **Day 7 Itinerary**
+## Thursday
+
+| Time | Activity | Cost |
+|------|----------|------|
+|7 A.M.| Wake up |      |
+|8 A.M.| Pre-Game | $20 |
+|9 A.M.| Pre-Game |      |
+|10 A.M.| Arrive at Universal: Volcano Bay | $860 (3 tickets) |
+|11 A.M.| Universal: Volcano Bay |      |
+|12 P.M.| Universal: Volcano Bay |      |
+|1 P.M.| Universal: Volcano Bay |      |
+|2 P.M.| Lunch in the park | $50 |
+|3 P.M.| Universal: Volcano Bay |      |
+|4 P.M.| Universal: Volcano Bay |      |
+|5 P.M.| Universal: Volcano Bay |      |
+|6 P.M.| Universal: Volcano Bay |      |
+|7 P.M.| Universal: Volcano Bay |      |
+|8 P.M.| Dinner inside the park | $60 |
+|9 P.M.| Head back to hotel |      |
+|10 P.M.| Bedtime |      |
+|11 P.M.| Sleepy |      |
+|Total Cost| $990 |
+
+# **Day 8 Itinerary**
+## Friday
 
 | Time | Activity | Cost |
 |------|----------|------|
@@ -160,3 +192,4 @@
 |10 P.M.|          |      |
 |11 P.M.|          |$      |
 |Total Cost|$       |
+
